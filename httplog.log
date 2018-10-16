@@ -1,0 +1,2 @@
+[/127.0.0.1] [Tue Oct 16 21:12:40 CEST 2018] [GET / HTTP/1.1] [404]
+[127.0.0.1] [Tue Oct 16 21:13:09 CEST 2018] [GET /rep1/index.html HTTP/1.1] [200]
